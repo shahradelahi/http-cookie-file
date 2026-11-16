@@ -1,6 +1,6 @@
 {
   "name": "http-cookie-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Lightweight Node.js library for reading, parsing, and atomically saving HTTP cookie files",
   "keywords": [
     "cookie",
